@@ -1,0 +1,37 @@
+{
+"wallpapers":
+    [
+        {
+                        "author": "djdarkknight96",
+                        "url": "http://teamblackedout.com/IconPacks/Potcons/wallpaper_default.jpg",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "djdarkknight96",
+                        "url": "http://teamblackedout.com/IconPacks/Potcons/wallpaper_5.jpg",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "djdarkknight96",
+                        "url": "http://teamblackedout.com/IconPacks/Potcons/wallpaper_4.jpg",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "djdarkknight96",
+                        "url": "http://teamblackedout.com/IconPacks/Potcons/wallpaper_3.jpg",
+                        "name": "WP 4"
+                    },
+                    {
+                        "author": "djdarkknight96",
+                        "url": "http://teamblackedout.com/IconPacks/Potcons/wallpaper_2.jpg",
+                        "name": "WP 5"
+                    },
+                    {
+                        "author": "djdarkknight96",
+                        "url": "http://teamblackedout.com/IconPacks/Potcons/wallpaper_1.jpg",
+                        "name": "WP 6"
+                    }
+                
+         
+    ]
+}
